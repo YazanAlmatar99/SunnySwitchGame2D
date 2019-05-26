@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DE2D8BCA-2957-9E59-71D4-846E3B08EC34}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/timerScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Manager.cs" Line="18" Column="34" />
+      <File FileName="Assets/timerScript.cs" Line="11" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
